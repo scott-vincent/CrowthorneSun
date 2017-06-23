@@ -11,7 +11,7 @@ public class CrowthorneSun
 {
     public static void main( String[] args )
     {
-    	// Set location to Crowthorne
+        // Set location to Crowthorne
         Location location = new Location("51.377580", "-0.806787");
         
         // Set timezone to London
