@@ -9,6 +9,11 @@ import com.luckycatlabs.sunrisesunset.dto.Location;
 
 public class CrowthorneSun 
 {
+
+	/**
+	 * 
+	 * @param args
+	 */
     public static void main( String[] args )
     {
         // Set location to Crowthorne
@@ -45,6 +50,5 @@ public class CrowthorneSun
         System.out.println();
         System.out.println("Sunrise for Crowthorne on " + nextWeekDate + " is at " + officialSunrise);
         System.out.println("Sunset for Crowthorne on " + nextWeekDate + " is at " + officialSunset);
-        
     }
 }
